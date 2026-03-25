@@ -1,7 +1,7 @@
 import Lake
 open Lake DSL
 
-package sherlock
+package sherlock where
 
 require verso from git "https://github.com/leanprover/verso"@"v4.28.0"
 
