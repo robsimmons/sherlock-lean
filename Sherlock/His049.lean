@@ -702,6 +702,7 @@ whole proceeding is absolutely illegal and outrageous."
 "Well, you realize your position, you and your accomplice here. If I
 were to shout for help as we pass through the village--"
 
+{index}[Scotland Yard]
 "My dear sir, if you did anything so foolish you would probably enlarge
 the two limited titles of our village inns by giving us 'The Dangling
 Prussian' as a signpost.  The Englishman is a patient creature, but at

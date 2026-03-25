@@ -63,6 +63,7 @@ romance seem to have passed forever from the criminal world.  Can you
 ask me, then, whether I am ready to look into any new problem, however
 trivial it may prove?  But here, unless I am mistaken, is our client."
 
+{index}[Conservative Party]
 A measured step was heard upon the stairs, and a moment later a stout,
 tall, gray-whiskered and solemnly respectable person was ushered into
 the room.  His life history was written in his heavy features and
@@ -118,6 +119,8 @@ my whole life such a thing has ever happened before.  But I will tell you
 the whole queer business, and when I have done so you will admit, I am
 sure, that there has been enough to excuse me."
 
+{index}[Tobias Gregson]
+{index}[Scotland Yard]
 But his narrative was nipped in the bud.  There was a bustle outside,
 and Mrs. Hudson opened the door to usher in two robust and
 official-looking individuals, one of whom was well known to us as
@@ -1284,11 +1287,3 @@ burned.'
 grotesque, Watson," Holmes added, as he slowly fastened his notebook,
 "but, as I have had occasion to remark, there is but one step from the
 grotesque to the horrible."
-
-
-
-
-
-
-
-

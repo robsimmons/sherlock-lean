@@ -144,6 +144,7 @@ read it aloud."
 I picked up the paper which he had thrown back to me and read the
 paragraph indicated. It was headed, "A Gruesome Packet."
 
+{index}[Lestrade]
 "Miss Susan Cushing, living at Cross Street, Croydon, has been made the
 victim of what must be regarded as a peculiarly revolting practical
 joke unless some more sinister meaning should prove to be attached to
@@ -341,6 +342,7 @@ was still quietly working away at her antimacassar.  She put it down on
 her lap as we entered and looked at us with her frank, searching blue
 eyes.
 
+{index}[Scotland Yard]
 "I am convinced, sir," she said, "that this matter is a mistake, and
 that the parcel was never meant for me at all.  I have said this
 several times to the gentlemen from Scotland Yard, but he simply laughs

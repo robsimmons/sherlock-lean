@@ -76,17 +76,19 @@ St. Simon. I will read it to you, and in return you must turn
 over these papers and let me have whatever bears upon the matter.
 This is what he says:
 
-"'MY DEAR MR. SHERLOCK HOLMES:--Lord Backwater tells me that I
-may place implicit reliance upon your judgment and discretion. I
-have determined, therefore, to call upon you and to consult you
-in reference to the very painful event which has occurred in
-connection with my wedding. Mr. Lestrade, of Scotland Yard, is
-acting already in the matter, but he assures me that he sees no
-objection to your co-operation, and that he even thinks that
-it might be of some assistance. I will call at four o'clock in
-the afternoon, and, should you have any other engagement at that
-time, I hope that you will postpone it, as this matter is of
-paramount importance. Yours faithfully, ST. SIMON.'
+> {index}[Lestrade]
+> {index}[Scotland Yard]
+> "'MY DEAR MR. SHERLOCK HOLMES:--Lord Backwater tells me that I
+> may place implicit reliance upon your judgment and discretion. I
+> have determined, therefore, to call upon you and to consult you
+> in reference to the very painful event which has occurred in
+> connection with my wedding. Mr. Lestrade, of Scotland Yard, is
+> acting already in the matter, but he assures me that he sees no
+> objection to your co-operation, and that he even thinks that
+> it might be of some assistance. I will call at four o'clock in
+> the afternoon, and, should you have any other engagement at that
+> time, I hope that you will postpone it, as this matter is of
+> paramount importance. Yours faithfully, ST. SIMON.'
 
 "It is dated from Grosvenor Mansions, written with a quill pen,
 and the noble lord has had the misfortune to get a smear of ink
@@ -1027,4 +1029,3 @@ and thank our stars that we are never likely to find ourselves in
 the same position. Draw your chair up and hand me my violin, for
 the only problem we have still to solve is how to while away
 these bleak autumnal evenings."
-

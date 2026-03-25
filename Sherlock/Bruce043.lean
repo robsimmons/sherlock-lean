@@ -210,6 +210,8 @@ steel-gray, deep-set eyes, so firm in its lips, and so subtle in its
 play of expression, that after the first glance one forgot the gross
 body and remembered only the dominant mind.
 
+{index}[Lestrade]
+{index}[Scotland Yard]
 At his heels came our old friend Lestrade, of Scotland Yard--thin and
 austere.  The gravity of both their faces foretold some weighty quest.
 The detective shook hands without a word. Mycroft Holmes struggled out
@@ -1330,9 +1332,3 @@ commission.  He said no more; but I fancy that I could guess at that
 lady's august name, and I have little doubt that the emerald pin will
 forever recall to my friend's memory the adventure of the
 Bruce-Partington plans.
-
-
-
-
-
-

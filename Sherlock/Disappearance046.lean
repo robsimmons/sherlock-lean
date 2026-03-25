@@ -128,6 +128,7 @@ researches will soon clear the matter up."
 
 "MY researches!"
 
+{index}[Scotland Yard]
 "Hence the health-giving expedition to Lausanne.  You know that I
 cannot possibly leave London while old Abrahams is in such mortal
 terror of his life.  Besides, on general principles it is best that I
@@ -386,6 +387,7 @@ Englischer Hof, whose answer lies here."
 
 "What does it show?"
 
+{index}[Lestrade]
 "It shows, my dear Watson, that we are dealing with an exceptionally
 astute and dangerous man.  The Rev. Dr. Shlessinger, missionary from
 South America, is none other than Holy Peters, one of the most
@@ -869,7 +871,3 @@ against her waking, and then screwed down the lid.  A clever device,
 Watson.  It is new to me in the annals of crime.  If our ex-missionary
 friends escape the clutches of Lestrade, I shall expect to hear of some
 brilliant incidents in their future career."
-
-
-
-

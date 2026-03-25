@@ -576,6 +576,7 @@ clatter of running feet upon the pavement, and two policemen in uniform,
 with one plain-clothes detective, rushed through the front entrance and
 into the room.
 
+{index}[Lestrade]
 "That you, Lestrade?" said Holmes.
 
 "Yes, Mr. Holmes. I took the job myself. It's good to see you back in
@@ -850,6 +851,7 @@ coins. Will it pass?"
 
 "I have no doubt that you have hit upon the truth."
 
+{index}[Scotland Yard]
 "It will be verified or disproved at the trial. Meanwhile, come what
 may, Colonel Moran will trouble us no more. The famous air-gun of Von
 Herder will embellish the Scotland Yard Museum, and once again

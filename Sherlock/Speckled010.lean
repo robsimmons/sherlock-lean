@@ -548,6 +548,7 @@ My friend smiled.
 
 His smile broadened.
 
+{index}[Scotland Yard]
 "Holmes, the Scotland Yard Jack-in-office!"
 
 Holmes chuckled heartily. "Your conversation is most
@@ -1209,4 +1210,3 @@ roused its snakish temper, so that it flew upon the first person
 it saw. In this way I am no doubt indirectly responsible for Dr.
 Grimesby Roylott's death, and I cannot say that it is likely to
 weigh very heavily upon my conscience."
-

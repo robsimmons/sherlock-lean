@@ -312,6 +312,7 @@ sure—'confidence' was as near as he could get to 'confident'—that it
 is pressing. There is our result—and a very workmanlike little bit of
 analysis it was!"
 
+{index}[Scotland Yard]
 Holmes had the impersonal joy of the true artist in his better work,
 even as he mourned darkly when it fell below the high level to which he
 aspired. He was still chuckling over his success when Billy swung open

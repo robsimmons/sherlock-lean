@@ -787,6 +787,7 @@ one of whom I recognised as Peter Jones, the official police
 agent, while the other was a long, thin, sad-faced man, with a
 very shiny hat and oppressively respectable frock-coat.
 
+{index}[Scotland Yard]
 "Ha! Our party is complete," said Holmes, buttoning up his
 pea-jacket and taking his heavy hunting crop from the rack.
 "Watson, I think you know Mr. Jones, of Scotland Yard? Let me

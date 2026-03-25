@@ -578,6 +578,7 @@ was left in charge of the Godolphin Street house. As to the housekeeper,
 she had heard nothing on the night of the crime. If her master had a
 visitor he had himself admitted him.
 
+{index}[Lestrade]
 So for three mornings the mystery remained, so far as I could follow it
 in the papers. If Holmes knew more, he kept his own counsel, but, as
 he told me that Inspector Lestrade had taken him into his
@@ -1160,9 +1161,3 @@ eyes.
 
 "We also have our diplomatic secrets," said he and, picking up his hat,
 he turned to the door.
-
-
-
-
-
-

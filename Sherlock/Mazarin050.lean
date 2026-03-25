@@ -81,6 +81,7 @@ Watson had taken a step forward when the bedroom door opened, and the long, thin
 
 'But this danger, Holmes?'
 
+{index}[Scotland Yard]
 'Ah, yes, in case it should come off, it would perhaps be as well that you should burden your memory with the name and address of the murderer. You can give it to Scotland Yard, with my love and a parting blessing. Sylvius is the name - Count Negretto Sylvius. Write it down, man, write it down! 136, Moorside Gardens, NW. Got it?'
 
 Watson's honest face was twitching with anxiety. He knew only too well the immense risks taken by Holmes, and was well aware that what he said was more likely to be understatement than exaggeration. Watson was always the man of action, and he rose to the occasion.

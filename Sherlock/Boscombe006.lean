@@ -150,6 +150,7 @@ before the coroner and the police-court."
 ever circumstantial evidence pointed to a criminal it does so
 here."
 
+{index}[Lestrade]
 "Circumstantial evidence is a very tricky thing," answered Holmes
 thoughtfully. "It may seem to point very straight to one thing,
 but if you shift your own point of view a little, you may find it
@@ -386,6 +387,7 @@ not another word shall I say of this case until we are on the
 scene of action. We lunch at Swindon, and I see that we shall be
 there in twenty minutes."
 
+{index}[Scotland Yard]
 It was nearly four o'clock when we at last, after passing through
 the beautiful Stroud Valley, and over the broad gleaming Severn,
 found ourselves at the pretty little country-town of Ross. A
@@ -1130,4 +1132,3 @@ months after our interview, but he is now dead; and there is
 every prospect that the son and daughter may come to live happily
 together in ignorance of the black cloud which rests upon their
 past.
-

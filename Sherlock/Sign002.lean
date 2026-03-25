@@ -73,6 +73,8 @@ the world."
 
 "The only unofficial detective?" I said, raising my eyebrows.
 
+{index}[Tobias Gregson]
+{index}[Lestrade]
 "The only unofficial consulting detective," he answered.  "I am the
 last and highest court of appeal in detection.  When Gregson or
 Lestrade or Athelney Jones are out of their depths—which, by the way,
@@ -2754,6 +2756,7 @@ tell yet where I may find myself.  If I am in luck, however, I may not
 be gone so very long.  I shall have news of some sort or other before I
 get back."
 
+{index}[Scotland Yard]
 I had heard nothing of him by breakfast-time.  On opening the Standard,
 however, I found that there was a fresh allusion to the business.
 "With reference to the Upper Norwood tragedy," it remarked, "we have

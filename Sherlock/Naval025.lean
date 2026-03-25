@@ -445,6 +445,7 @@ save that it was about the time when the woman always went home. The
 policeman and I agreed that our best plan would be to seize the woman
 before she could get rid of the papers, presuming that she had them.
 
+{index}[Scotland Yard]
 "The alarm had reached Scotland Yard by this time, and Mr. Forbes, the
 detective, came round at once and took up the case with a great deal of
 energy. We hired a hansom, and in half an hour we were at the address
@@ -1531,4 +1532,3 @@ The knife was only meant as a tool."
 "It may be so," answered Holmes, shrugging his shoulders. "I can only
 say for certain that Mr. Joseph Harrison is a gentleman to whose mercy I
 should be extremely unwilling to trust."
-

@@ -325,6 +325,7 @@ me through the fog.
 
 "How is Mr. Holmes, sir?" he asked.
 
+{index}[Scotland Yard]
 It was an old acquaintance, Inspector Morton, of Scotland Yard, dressed
 in unofficial tweeds.
 
@@ -738,5 +739,3 @@ surprise a confession.  That pretence I have carried out with the
 thoroughness of the true artist.  Thank you, Watson, you must help me
 on with my coat.  When we have finished at the police-station I think
 that something nutritious at Simpson's would not be out of place."
-
-

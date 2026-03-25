@@ -68,6 +68,7 @@ crime was committed before twelve last night."
 
 "How can you possibly tell?"
 
+{index}[Scotland Yard]
 "By an inspection of the trains, and by reckoning the time. The local
 police had to be called in, they had to communicate with Scotland Yard,
 Hopkins had to go out, and he in turn had to send for me. All that makes

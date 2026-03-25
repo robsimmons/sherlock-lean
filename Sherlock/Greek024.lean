@@ -502,6 +502,7 @@ extraordinary narrative. Then Sherlock looked across at his brother.
 
 "Any steps?" he asked.
 
+{index}[Daily News]
 Mycroft picked up the Daily News, which was lying on the side-table.
 
 "'Anybody supplying any information to the whereabouts of a Greek
@@ -621,6 +622,8 @@ at present at The Myrtles, Beckenham. Yours faithfully, J. Davenport.'
 "He writes from Lower Brixton," said Mycroft Holmes. "Do you not think
 that we might drive to him now, Sherlock, and learn these particulars?"
 
+{index}[Tobias Gregson]
+{index}[Scotland Yard]
 "My dear Mycroft, the brother's life is more valuable than the sister's
 story. I think we should call at Scotland Yard for Inspector Gregson,
 and go straight out to Beckenham. We know that a man is being done to

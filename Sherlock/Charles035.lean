@@ -637,6 +637,8 @@ miles, I suppose, before Holmes at last halted and listened intently.
 All was absolute silence behind us. We had shaken off our pursuers and
 were safe.
 
+{index}[Lestrade]
+{index}[Scotland Yard]
 We had breakfasted and were smoking our morning pipe on the day after
 the remarkable experience which I have recorded, when Mr. Lestrade, of
 Scotland Yard, very solemn and impressive, was ushered into our modest
@@ -703,5 +705,3 @@ at the straight mouth, and the strong little chin beneath it. Then I
 caught my breath as I read the time-honoured title of the great nobleman
 and statesman whose wife she had been. My eyes met those of Holmes, and
 he put his finger to his lips as we turned away from the window.
-
-

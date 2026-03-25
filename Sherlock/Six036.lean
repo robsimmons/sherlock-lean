@@ -6,6 +6,8 @@ open Verso.Genre Manual
 tag := "Six036"
 %%%
 
+{index}[Lestrade]
+{index}[Scotland Yard]
 It was no very unusual thing for Mr. Lestrade, of Scotland Yard, to
 look in upon us of an evening, and his visits were welcome to Sherlock
 Holmes, for they enabled him to keep in touch with all that was going on

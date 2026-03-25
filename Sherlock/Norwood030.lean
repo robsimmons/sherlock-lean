@@ -161,6 +161,8 @@ believe that they have evidence in their possession which supplies
 a very convincing motive for the crime, and altogether it cannot be
 doubted that sensational developments will follow.
 
+{index}[Lestrade]
+{index}[Scotland Yard]
 "LATER.--It is rumoured as we go to press that Mr. John Hector McFarlane
 has actually been arrested on the charge of the murder of Mr. Jonas
 Oldacre. It is at least certain that a warrant has been issued. There

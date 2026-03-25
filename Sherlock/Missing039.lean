@@ -50,6 +50,7 @@ anxiety.
 
 My companion bowed.
 
+{index}[Scotland Yard]
 "I've been down to Scotland Yard, Mr. Holmes. I saw Inspector Stanley
 Hopkins. He advised me to come to you. He said the case, so far as he
 could see, was more in your line than in that of the regular police."
@@ -951,5 +952,3 @@ Holmes grasped the doctor's hand.
 
 "Come, Watson," said he, and we passed from that house of grief into the
 pale sunlight of the winter day.
-
-

@@ -394,6 +394,7 @@ originally thought. I should be none the worse for a quiet, peaceful day
 in the country, and I am inclined to run down this afternoon and test
 one or two theories which I have formed."
 
+{index}[Scotland Yard]
 Holmes's quiet day in the country had a singular termination, for
 he arrived at Baker Street late in the evening, with a cut lip and a
 discoloured lump upon his forehead, besides a general air of dissipation
@@ -820,4 +821,3 @@ I have no record, but I am sure that his assault was not viewed very
 gravely by the court, since Woodley had the reputation of being a most
 dangerous ruffian, and I think that a few, months were sufficient to
 satisfy the demands of justice.
-

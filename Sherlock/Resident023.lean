@@ -860,7 +860,7 @@ you will see that, though that shield may fail to guard, the sword of
 justice is still there to avenge."
 
 
-Such were the singular circumstances in connection with the Resident
+{index}[Scotland Yard]Such were the singular circumstances in connection with the Resident
 Patient and the Brook Street Doctor. From that night nothing has
 been seen of the three murderers by the police, and it is surmised
 at Scotland Yard that they were among the passengers of the ill-fated
@@ -869,4 +869,3 @@ upon the Portuguese coast, some leagues to the north of Oporto. The
 proceedings against the page broke down for want of evidence, and the
 Brook Street Mystery, as it was called, has never until now been fully
 dealt with in any public print.
-

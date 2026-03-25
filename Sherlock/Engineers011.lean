@@ -793,6 +793,7 @@ the colonel needed to have his machine overhauled, I fancy."
 "Good heavens!" cried my patient. "Then that explains what the
 girl said."
 
+{index}[Scotland Yard]
 "Undoubtedly. It is quite clear that the colonel was a cool and
 desperate man, who was absolutely determined that nothing should
 stand in the way of his little game, like those out-and-out
@@ -968,5 +969,3 @@ have I gained?"
 value, you know; you have only to put it into words to gain the
 reputation of being excellent company for the remainder of your
 existence."
-
-

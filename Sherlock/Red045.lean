@@ -466,6 +466,7 @@ had been suddenly cut short.  How, and by whom?  The same thought
 occurred on the instant to us both.  Holmes sprang up from where he
 crouched by the window.
 
+{index}[Scotland Yard]
 "This is serious, Watson," he cried.  "There is some devilry going
 forward!  Why should such a message stop in such a way?  I should put
 Scotland Yard in touch with this business--and yet, it is too pressing
@@ -494,6 +495,7 @@ railing.  He started as the hall-light fell upon our faces.
 
 "Holmes!" he cried.
 
+{index}[Tobias Gregson]
 "Why, Gregson!" said my companion as he shook hands with the Scotland
 Yard detective.  "Journeys end with lovers' meetings. What brings you
 here?"
