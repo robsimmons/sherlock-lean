@@ -744,6 +744,7 @@ discovering the silver."
 
 "A setback?"
 
+{index}[New York]
 "Yes, Mr. Holmes. The Randall gang were arrested in New York this
 morning."
 
@@ -962,4 +963,3 @@ guilty or not guilty?"
 law does not find some other victim you are safe from me. Come back
 to this lady in a year, and may her future and yours justify us in the
 judgment which we have pronounced this night!"
-

@@ -2585,6 +2585,7 @@ Three had been placed on one side.
 
 MacDonald pointed ruefully to his heap of correspondence.
 
+{index}[Liverpool]
 "He is at present reported from Leicester, Nottingham, Southampton,
 Derby, East Ham, Richmond, and fourteen other places. In three of
 them—East Ham, Leicester, and Liverpool—there is a clear case against
@@ -4716,6 +4717,7 @@ have enough on hand to meet any obligations."
 
 "What about Archie Swindon?" asked a brother.
 
+{index}[New York]
 "He has sold out and left the district. The old devil left a note for us
 to say that he had rather be a free crossing sweeper in New York than a
 large mine owner under the power of a ring of blackmailers. By Gar! it
@@ -6765,5 +6767,3 @@ give me time—you must give me time!"
 
 We all sat in silence for some minutes while those fateful eyes still
 strained to pierce the veil.
-
-

@@ -399,6 +399,7 @@ There was a vague sound which seemed to come from the window. Both men sprang ro
 
 'That sounds good to me!' said Sam Merton, with a grin.
 
+{index}[Liverpool]
 'You go on and tell the Dutchman to get a move on him. I'll see this sucker and fill him up with a bogus confession. I'll tell him that the stone is in Liverpool. Confound that whining music, it gets on my nerves! By the time he finds it isn't in Liverpool it will be in quarters and we on the blue water. Come back here, out of a line with that keyhole. Here is the stone.'
 
 'I wonder you dare carry it.'
@@ -518,5 +519,3 @@ The old peer stared from the stone to the smiling face before him.
 'Sir, I am bewildered. But - yes - it is indeed the Mazarin stone. We are greatly your debtors, Mr Holmes. Your sense of humour may, as you admit, be somewhat perverted, and its exhibition remarkably untimely, but at least I withdraw any reflection I have made upon your amazing professional powers. But how-'
 
 'The case is but half finished, the details can wait. No doubt, Lord Cantlemere, your pleasure in telling of this successful result in the exalted circle to which you return will be some small atonement for my practical joke. Billy, you will show his lordship out, and tell Mrs Hudson that I should be glad if she would send up dinner for two as soon as possible.'
-
-

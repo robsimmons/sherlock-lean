@@ -237,6 +237,7 @@ or so later. I was going out when he called me back.
 
 "Why?"
 
+{index}[Liverpool]
 "Because I had a wire from Hilton Cubitt this morning. You remember
 Hilton Cubitt, of the dancing men? He was to reach Liverpool Street at
 one-twenty. He may be here at any moment. I gather from his wire that
@@ -865,6 +866,7 @@ so complete a command over our difficulties.
 
 "What did you do then, sir?" asked the inspector.
 
+{index}[New York]
 "I had every reason to suppose that this Abe Slaney was an American,
 since Abe is an American contraction, and since a letter from America
 had been the starting-point of all the trouble. I had also every cause
@@ -1081,4 +1083,3 @@ certainty that Hilton Cubitt had fired the first shot. Of Mrs. Hilton
 Cubitt I only know that I have heard she recovered entirely, and that
 she still remains a widow, devoting her whole life to the care of the
 poor and to the administration of her husband's estate.
-

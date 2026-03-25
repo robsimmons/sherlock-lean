@@ -33,7 +33,7 @@ I gave him a short sketch of my adventures, and had hardly concluded it by the t
 
 'A fellow who is working at the chemical laboratory up at the hospital. He was bemoaning himself this morning because he could not get someone to go halves with him in some nice rooms which he had found, and which were too much for his purse.'
 
-'By Jove!' I cried; gif he really wants some one to share the rooms and the expense, I am the very man for him. I should prefer having a partner to being alone.'
+'By Jove!' I cried; 'if he really wants some one to share the rooms and the expense, I am the very man for him. I should prefer having a partner to being alone.'
 
 Young Stamford looked rather strangely at me over his wine-glass. 'You don't know Sherlock Holmes yet,' he said; 'perhaps you would not care for him as a constant companion.'
 
@@ -175,20 +175,20 @@ I was on the point of asking him what that work might be, but something in his m
 
 I could not help smiling at the document when I had completed it. It ran in this way:
 
-SHERLOCK HOLMES - his limits
-
-1 Knowledge of Literature. - Nil.
-2 Knowledge of Philosophy. - Nil.
-3 Knowledge of Astronomy. - Nil.
-4 Knowledge of Politics. - Feeble.
-5 Knowledge of Botany. - Variable. Well up in belladonna, opium, and poisons generally. Knows nothing of practical gardening.
-6 Knowledge of Geology: Practical, but limited. Tells at a glance different soils from each other. After walks has shown me splashes upon his trousers, and told me by their colour and consistence in what part of London he had received them.
-7 Knowledge of Chemistry. - Profound.
-8 Knowledge of Anatomy. - Accurate, but unsystematic.
-9 Knowledge of Sensational Literature. - Immense. He appears to know every detail of every horror perpetrated in the century.
-10 Plays the violin well.
-11 Is an expert singlestick player, boxer, and swordsman.
-12 Has a good practical knowledge of British law.
+> SHERLOCK HOLMES - his limits
+>
+> 1. Knowledge of Literature. - Nil.
+> 2. Knowledge of Philosophy. - Nil.
+> 3. Knowledge of Astronomy. - Nil.
+> 4. Knowledge of Politics. - Feeble.
+> 5. Knowledge of Botany. - Variable. Well up in belladonna, opium, and poisons generally. Knows nothing of practical gardening.
+> 6. Knowledge of Geology: Practical, but limited. Tells at a glance different soils from each other. After walks has shown me splashes upon his trousers, and told me by their colour and consistence in what part of London he had received them.
+> 7. Knowledge of Chemistry. - Profound.
+> 8. Knowledge of Anatomy. - Accurate, but unsystematic.
+> 9. Knowledge of Sensational Literature. - Immense. He appears to know every detail of every horror perpetrated in the century.
+> 10. Plays the violin well.
+> 11. Is an expert singlestick player, boxer, and swordsman.
+> 12. Has a good practical knowledge of British law.
 
 When I had got so far in my list I threw it into the fire in despair. 'If I can only find what the fellow is driving at by reconciling all these accomplishments, and discovering a calling which needs them all,' I said to myself, 'I may as well give up the attempt at once.'
 
@@ -207,7 +207,7 @@ Its somewhat ambitious tide was 'The Book of Life', and it attempted to show how
 
 'What is it?' asked Sherlock Holmes.
 
-'Why, this article,' I said, pointing at it with my egg-spoon as I sat down to my breakfast. 'I see that you have read it since you have marked it. I don't deny that it is smartly written. It irritates me, though. It is evidently the theory of some arm-chair lounger who evolves all these neat little paradoxes in the seclusion of his own study. It is not practical. I should like to see him clapped down in a third- class carriage on the Underground, and asked to give the trades of all his fellow-travellers. I would lay a thousand to one against him.'
+'Why, this article,' I said, pointing at it with my egg-spoon as I sat down to my breakfast. 'I see that you have read it since you have marked it. I don't deny that it is smartly written. It irritates me, though. It is evidently the theory of some arm-chair lounger who evolves all these neat little paradoxes in the seclusion of his own study. It is not practical. I should like to see him clapped down in a third-class carriage on the Underground, and asked to give the trades of all his fellow-travellers. I would lay a thousand to one against him.'
 
 'You would lose your money,' Holmes remarked calmly. 'As for the article, I wrote it myself.'
 
@@ -287,8 +287,9 @@ I confess that I was considerably startled by this fresh proof of the practical 
 
 'It does seem to be a little out of the common,' he remarked, calmly. 'Would you mind reading it to me aloud?' This is the letter which I read to him:
 
-{index}[Tobias Gregson]
-"My dear Mr Sherlock Holmes, There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss. He found the door open, and in the front room, which is bare of furniture, discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of 'Enoch J. Drebber, Cleveland, Ohio, U.S.A.' There had been no robbery, nor is there any evidence as to how the man met his death. There are marks of blood in the room, but there is no wound upon his person. We are at a loss as to how he came into the empty house; indeed, the whole affair is a puzzler. If you can come round to the house any time before twelve, you will find me there. I have left everything in statu quo until I hear from you. If you are unable to come, I shall give you fuller details, and would esteem it a great kindness if you would favour me with your opinion. Yours faithfully, TOBIAS GREGSON."
+> {index}[Cleveland]
+> {index}[Tobias Gregson]
+> "My dear Mr Sherlock Holmes, There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss. He found the door open, and in the front room, which is bare of furniture, discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of 'Enoch J. Drebber, Cleveland, Ohio, U.S.A.' There had been no robbery, nor is there any evidence as to how the man met his death. There are marks of blood in the room, but there is no wound upon his person. We are at a loss as to how he came into the empty house; indeed, the whole affair is a puzzler. If you can come round to the house any time before twelve, you will find me there. I have left everything in statu quo until I hear from you. If you are unable to come, I shall give you fuller details, and would esteem it a great kindness if you would favour me with your opinion. Yours faithfully, TOBIAS GREGSON."
 
 'Gregson is the smartest of the Scotland Yarders,' my friend remarked; 'he and Lestrade are the pick of a bad lot. They are both quick and energetic, but conventional - shockingly so. They have their knives into one another, too. They are as jealous as a pair of professional beauties. There will be some fun over this case if they are both put upon the scent.'
 
@@ -388,10 +389,13 @@ He held it out, as he spoke, upon the palm of his hand. We all gathered round hi
 
 'You're sure it doesn't simplify them?' observed Holmes. 'There's nothing to be learned by staring at it. What did you find in his pockets?'
 
+{index}[_The Decameron_, by Giovanni Boccaccio]
 'We have it all here,' said Gregson, pointing to a litter of objects upon one of the bottom steps of the stairs 'A gold watch, No. 97163, by Barraud, of London. Gold Albert chain, very heavy and solid. Gold ring, with masonic device. Gold pin - bull-dog's head, with rubies as eyes. Russian leather card-case with cards of Enoch J. Drebber of Cleveland, corresponding with the E. J. D. upon the linen. No purse, but loose money to the extent of seven pounds thirteen. Pocket edition of Boccaccio's Decameron, with name of Joseph Stangerson upon the fly-leaf. Two letters - one addressed to E. J. Drebber and one to Joseph Stangerson.'
 
 'At what address?'
 
+{index}[Liverpool]
+{index}[New York]
 'American Exchange, Strand - to be left till called for. They are both from the Guion Steamship Company, and refer to the sailing of their boats from Liverpool. It is clear that this unfortunate man was about to return to New York.'
 
 'Have you made any inquiries as to this man Stangerson?'
@@ -428,7 +432,7 @@ He struck a match on his boot and held it up against the wall.
 
 I have remarked that the paper had fallen away in parts. In this particular corner of the room a large piece had peeled off, leaving a yellow square of coarse plastering. Across this bare space there was scrawled in blood-red letters a single word-
 
-RACHE
+> RACHE
 
 'What do you think of that?' cried the detective, with the air of a showman exhibiting his show. 'This was overlooked because it was in the darkest corner of the room, and no one thought of looking there. The murderer has written it with his or her own blood. See this smear where it has trickled down the wall! That disposes of the idea of suicide anyhow. Why was that corner chosen to write it on? I will tell you. See that candle on the mantelpiece. It was lit at the time, and if it was lit this corner would be the brightest instead of the darkest portion of the wall.'
 

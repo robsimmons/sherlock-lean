@@ -6467,7 +6467,7 @@ away until it merged into the russet slopes of the moor.
 # A Retrospection
 
 
-
+{index}[New York]
 It was the end of November, and Holmes and I sat, upon a raw and foggy
 night, on either side of a blazing fire in our sitting-room in Baker
 Street. Since the tragic upshot of our visit to Devonshire he had been
@@ -6824,5 +6824,3 @@ work, and for one evening, I think, we may turn our thoughts into more
 pleasant channels. I have a box for 'Les Huguenots.' Have you heard the
 De Reszkes? Might I trouble you then to be ready in half an hour, and we
 can stop at Marcini's for a little dinner on the way?"
-
-

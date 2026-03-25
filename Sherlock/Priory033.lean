@@ -186,6 +186,7 @@ dragged before the world. He has a deep horror of anything of the kind."
 
 "But there has been some official investigation?"
 
+{index}[Liverpool]
 "Yes, sir, and it has proved most disappointing. An apparent clue was
 at once obtained, since a boy and a young man were reported to have been
 seen leaving a neighbouring station by an early train. Only last night
@@ -1419,4 +1420,3 @@ interesting object that I have seen in the North."
 Holmes folded up his check and placed it carefully in his notebook. "I
 am a poor man," said he, as he patted it affectionately, and thrust it
 into the depths of his inner pocket.
-

@@ -430,6 +430,7 @@ better."
 
 Von Bork had mastered his anger.
 
+{index}[New York]
 "We have been allies too long to quarrel now at the very hour of
 victory," he said.  "You've done splendid work and taken risks, and I
 can't forget it.  By all means go to Holland, and you can get a boat
@@ -730,6 +731,3 @@ and a cleaner, better, stronger land will lie in the sunshine when the
 storm has cleared.  Start her up, Watson, for it's time that we were on
 our way.  I have a check for five hundred pounds which should be cashed
 early, for the drawer is quite capable of stopping it if he can."
-
-
-

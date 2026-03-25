@@ -565,6 +565,7 @@ suggest, Mr. Holmes?"
 
 "But we have no warrant for his arrest."
 
+{index}[New York]
 "He is in unoccupied premises under suspicious circumstances," said
 Gregson.  "That is good enough for the moment.  When we have him by the
 heels we can see if New York can't help us to keep him.  I'll take the
@@ -844,8 +845,3 @@ university.  Well, Watson, you have one more specimen of the tragic and
 grotesque to add to your collection.  By the way, it is not eight
 o'clock, and a Wagner night at Covent Garden!  If we hurry, we might be
 in time for the second act."
-
-
-
-
-
