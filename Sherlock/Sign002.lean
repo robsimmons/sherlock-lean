@@ -332,6 +332,7 @@ our landlady entered, bearing a card upon the brass salver.
 
 "A young lady for you, sir," she said, addressing my companion.
 
+{index}[Mary Morstan]
 "Miss Mary Morstan," he read.  "Hum!  I have no recollection of the
 name.  Ask the young lady to step up, Mrs. Hudson.  Don't go, doctor.
 I should prefer that you remain."
@@ -1589,6 +1590,7 @@ very small twinkling eyes which looked keenly out from between swollen
 and puffy pouches. He was closely followed by an inspector in uniform,
 and by the still palpitating Thaddeus Sholto.
 
+{index}[Athelney Jones]
 "Here's a business!" he cried, in a muffled, husky voice. "Here's a
 pretty business!  But who are all these?  Why, the house seems to be as
 full as a rabbit-warren!"

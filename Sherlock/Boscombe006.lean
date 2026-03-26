@@ -6,6 +6,7 @@ open Verso.Genre Manual
 tag := "Boscombe006"
 %%%
 
+{index}[Mary Morstan]
 We were seated at breakfast one morning, my wife and I, when the
 maid brought in a telegram. It was from Sherlock Holmes and ran
 in this way:

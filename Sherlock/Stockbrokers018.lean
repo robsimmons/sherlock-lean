@@ -108,6 +108,7 @@ to Birmingham, then?"
 "You shall hear it all in the train. My client is outside in a
 four-wheeler. Can you come at once?"
 
+{index}[Mary Morstan]
 "In an instant." I scribbled a note to my neighbor, rushed upstairs to
 explain the matter to my wife, and joined Holmes upon the door-step.
 
