@@ -75,6 +75,8 @@ the world."
 
 {index}[Tobias Gregson]
 {index}[Lestrade]
+{index}[Athelney Jones]
+{index (subterm := "A Study in Scarlet")}[Canonical Stories]
 "The only unofficial consulting detective," he answered.  "I am the
 last and highest court of appeal in detection.  When Gregson or
 Lestrade or Athelney Jones are out of their depths—which, by the way,
@@ -87,7 +89,7 @@ methods of work in the Jefferson Hope case."
 
 "Yes, indeed," said I, cordially.  "I was never so struck by anything
 in my life.  I even embodied it in a small brochure with the somewhat
-fantastic title of 'A Study in Scarlet.'"
+fantastic title of '{ref "Study001"}[A Study in Scarlet].'"
 
 He shook his head sadly.  "I glanced over it," said he. "Honestly, I
 cannot congratulate you upon it.  Detection is, or ought to be, an
@@ -114,6 +116,7 @@ remark, however, but sat nursing my wounded leg.  I had a Jezail bullet
 through it some time before, and, though it did not prevent me from
 walking, it ached wearily at every change of the weather.
 
+{index}[Francois Le Villard]
 {index (subterm := "The Case of A Continental Will")}[Untold Stories]
 "My practice has extended recently to the Continent," said Holmes,
 after a while, filling up his old brier-root pipe.  "I was consulted
@@ -142,6 +145,8 @@ French."
 
 "Your works?"
 
+{index}[_Upon the Distinction between the Ashes of the Various
+Tobaccoes_, by Sherlock Holmes]
 "Oh, didn't you know?" he cried, laughing.  "Yes, I have been guilty of
 several monographs.  They are all upon technical subjects.  Here, for
 example, is one 'Upon the Distinction between the Ashes of the Various
