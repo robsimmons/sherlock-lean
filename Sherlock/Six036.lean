@@ -74,6 +74,7 @@ childish for any particular investigation.
 "The second case, however, was more serious, and also more singular. It
 occurred only last night.
 
+{index}[Thames River]
 "In Kennington Road, and within a few hundred yards of Morse Hudson's
 shop, there lives a well-known medical practitioner, named Dr. Barnicot,
 who has one of the largest practices upon the south side of the Thames.

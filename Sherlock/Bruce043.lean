@@ -547,6 +547,7 @@ his pocket.
 "We have quite a little round of afternoon calls to make," said he.  "I
 think that Sir James Walter claims our first attention."
 
+{index}[Thames River]
 The house of the famous official was a fine villa with green lawns
 stretching down to the Thames.  As we reached it the fog was lifting,
 and a thin, watery sunshine was breaking through.  A butler answered

@@ -384,10 +384,12 @@ one, and we had best get a few hours' sleep. I daresay you can manage
 all right on the sofa in front of the fire. I'll light my spirit lamp,
 and give you a cup of coffee before we start."
 
+{index}[Thames River]
+{index (subterm := "The Sign of Four")}[Canonical Stories]
 The gale had blown itself out next day, but it was a bitter morning when
 we started upon our journey. We saw the cold winter sun rise over the
 dreary marshes of the Thames and the long, sullen reaches of the river,
-which I shall ever associate with our pursuit of the Andaman Islander
+which I shall ever associate with our {ref "Sign002"}[pursuit of the Andaman Islander]
 in the earlier days of our career. After a long and weary journey, we
 alighted at a small station some miles from Chatham. While a horse was
 being put into a trap at the local inn, we snatched a hurried breakfast,
@@ -965,4 +967,3 @@ retreat. Well, Hopkins, here we are at Charing Cross, and I congratulate
 you on having brought your case to a successful conclusion. You are
 going to headquarters, no doubt. I think, Watson, you and I will drive
 together to the Russian Embassy."
-

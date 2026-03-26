@@ -1049,6 +1049,7 @@ country, and eventually married, without anyone having a
 suspicion as to my real occupation. My dear wife knew that I had
 business in the City. She little knew what.
 
+{index}[Thames River]
 "Last Monday I had finished for the day and was dressing in my
 room above the opium den when I looked out of my window and saw,
 to my horror and astonishment, that my wife was standing in the

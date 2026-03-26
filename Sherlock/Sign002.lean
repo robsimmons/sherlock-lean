@@ -356,6 +356,7 @@ not but observe that as she took the seat which Sherlock Holmes placed
 for her, her lip trembled, her hand quivered, and she showed every sign
 of intense inward agitation.
 
+{index (subterm := "The Domestic Complication of Mrs. Cecil Forrester")}[Untold Stories]
 "I have come to you, Mr. Holmes," she said, "because you once enabled
 my employer, Mrs. Cecil Forrester, to unravel a little domestic
 complication.  She was much impressed by your kindness and skill."
@@ -382,6 +383,7 @@ of inestimable service to me."
 
 I relapsed into my chair.
 
+{index}[Edinburgh]
 "Briefly," she continued, "the facts are these.  My father was an
 officer in an Indian regiment who sent me home when I was quite a
 child.  My mother was dead, and I had no relative in England.  I was
@@ -526,6 +528,7 @@ of this fellow's scribble?"
 "It is legible and regular," I answered.  "A man of business habits and
 some force of character."
 
+{index}[_Martyrdom of Man_ by Winwood Reade]
 Holmes shook his head.  "Look at his long letters," he said. "They
 hardly rise above the common herd.  That d might be an a, and that l an
 e.  Men of character always differentiate their long letters, however
@@ -706,6 +709,7 @@ Vauxhall Bridge Road.  We are making for the Surrey side, apparently.
 Yes, I thought so.  Now we are on the bridge.  You can catch glimpses
 of the river."
 
+{index}[Thames River]
 We did indeed get a fleeting view of a stretch of the Thames with the
 lamps shining upon the broad, silent water; but our cab dashed on, and
 was soon involved in a labyrinth of streets upon the other side.

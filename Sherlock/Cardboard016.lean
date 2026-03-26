@@ -621,6 +621,7 @@ an effect upon her as to bring on brain fever.  It was clearer than
 ever that she understood its full significance, but equally clear that
 we should have to wait some time for any assistance from her.
 
+{index}[Thames River]
 "However, we were really independent of her help.  Our answers were
 waiting for us at the police-station, where I had directed Algar to
 send them.  Nothing could be more conclusive.  Mrs. Browner's house had
